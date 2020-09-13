@@ -1,6 +1,6 @@
 # Lucas de Lima
 
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/E7TaZb8vDYTNm/giphy.gif">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif">
  
 # Welcome!
  

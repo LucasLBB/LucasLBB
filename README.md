@@ -6,7 +6,7 @@
  
 ## I'm Lucas de Lima!
  
-Developer focused in Web | PHP and JAVASCRIPT :heart:
+Developer focused in Web | C#(ASP.NET CORE) and JAVASCRIPT :heart:
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasLBB)](https://github.com/LucasLBB)
